@@ -1,5 +1,5 @@
 class Shoe
-  
+
   def properties
   end
   

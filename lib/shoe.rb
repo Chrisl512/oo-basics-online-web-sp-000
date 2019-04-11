@@ -7,6 +7,7 @@ class Shoe
   end
 
   def initialize(condition)
+    @condition = condition
   end
 
   def cobble

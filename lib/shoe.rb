@@ -1,6 +1,6 @@
 class Shoe
 
-  def properties
+  def initialize
   end
-  
+
 end

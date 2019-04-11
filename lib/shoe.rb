@@ -1,13 +1,9 @@
 class Shoe
-  attr_reader :brand, :condition
-  attr_accessor :color, :size, :material
+  attr_reader :brand,
+  attr_accessor :color, :size, :material, :condition
 
   def initialize(brand)
     @brand = brand
-  end
-
-  def initialize(condition)
-    @condition = condition
   end
 
   def cobble
